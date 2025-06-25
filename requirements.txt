@@ -1,4 +1,5 @@
 instagrapi
-google-api-python-client
 google-auth
+google-api-python-client
 schedule
+Pillow>=8.1.1
