@@ -1,1 +1,1 @@
-worker: python drivinsta.py
+worker: python main.py
